@@ -1,6 +1,6 @@
-torch
-torch-geometric
+streamlit
 pandas
 numpy
 scikit-learn
+plotly
 joblib
